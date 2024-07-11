@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dhananjaybuidl" target="blank"><img src="https://img.shields.io/twitter/follow/dhananjaybuidl?logo=twitter&style=for-the-badge" alt="dhananjaybuidl" /></a> </p>
 
-- 🌱 I’m currently mastering **NextJS and Foundry**
+- 🌱 I’m currently mastering **NextJS , Rust and Foundry**
 
 - 👨‍💻 All of my projects are available at [https://dhananjay-buidl.vercel.app](https://dhananjay-buidl.vercel.app)
 
